@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bananzoo</string>
+    <string name="button">Button</string>
+    <string name="calculate_bmi">Calculate Bmi</string>
+    <string name="menufile">menuFile</string>
+    <string name="menuedit">menuEdit</string>
+    <string name="menuhelp">menuHelp</string>
+    <string name="menuexit">menuExit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="bookdescriptions">
+
+    <item>
+        How to use Android Studio 3, but also teaches you how basic
+        Android programming. And hey, in case y\'re also a beginner in Java,
+        that\'s covered too.
+    </item>
+        <item>
+        This book is also about how to use Android Studio. Like the first one,
+        it also teaches you the basics of the IDE and Android programming; but
+        this time around, you\'ll use Kotlin. The newest kid in the JVM block
+    </item>
+
+        <item>
+        Minimum Android Programming is the book that got me started. I wrote
+        in an age when even the Eclipse ADT doe\'t exist yet. So, this means
+        you\'ll use the Android SDK in all the glory of the CLI tools
+    </item>
+
+    </string-array>
+    <string name="title_activity_shared_data">SharedDataActivity</string>
+</resources>
+
